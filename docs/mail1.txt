@@ -1,0 +1,53 @@
+Dr. Satyendra Nath Mandal
+Asstt. Professor,
+Dept. of Information Technology,
+Kalyani Govt. Engg. College,
+Kalyani,Nadia -741235,
+West Bengal, India
+
+Mob: 09830452362
+
+
+From: k.karthik@iitg.ernet.in
+Sent: Mon, 26 Jun 2017 08:36:18
+To: "ITRA Ag&Food" <itra.agfood@gmail.com>
+Cc: "Narendra Ahuja" <ahuja.uiuc@gmail.com>, "A. Bandyopadhyay" <abandyo@gmail.com>, "Gaurav Sharma" <gauravsharma@medialabasia.in>, rizwan-itra@medialabasia.in, "hina" <hina@medialabasia.in>, "Shubhalata" <shubhalata@medialabasia.in>, mohan.nh@icar.gov.in, "Santanu Banik" <sbanik2000@gmail.com>, satyen_kgec@rediffmail.com, satyenkgec@gmail.com, mkb@iitg.ernet.in, prabin@iitg.ernet.in, k.karthik@iitg.ernet.in
+Subject: Report-2 on MUZZLE ANALYSIS for BIOMETRIC IDENTIFICATION
+
+Dear Prof. Bandyopadhyay,
+
+Please find attached a comprehensive report (Report-2) related to MUZZLE
+ANALYSIS and its potential use primarily as a BIOMETRIC IDENTIFIER.
+
+The report covers both angles from the physiological side as well as
+signal processing. On one hand you will see several conjectures thrown
+open towards the usage of certain patterns such as hair and pores present
+on the MUZZLE. On the other side, it has been shown in this report, that
+when these (not so apparent) pores and hairlike structures, are amplified
+and made visible in a different domain (by creating a GRADIENT
+SIGNIFICANCE MAP), then individual pig identification is possible.
+
+Since the size of the dataset was small, an UN-SUPERVISED k-means
+algorithm was used to organize a random mixture of MUZZLE PATTERNS.
+Results were very promising.
+
+With the availability of larger muzzle datasets and the exploration of
+alternative features such as those based on contours it is possible to
+scale this success.
+
+This report will also be useful to the bio-scientists and doctors towards
+honing in on the right choice of features.
+
+Regards
+Karthik
+
+--------
+"It is inside you that you find the world. The world is what you make of it."
+
+Dr. Kannan Karthik
+Associate Professor
+Dept. Electronics and Electrical Engg,
+IIT Guwahati, Assam 781039
+Phone-off: (0361) 258 2516
+    Cell: (+91) 9957 2154 09
+http://www.iitg.ernet.in/engfac/k.karthik/
